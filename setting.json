@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"http://www.home-designing.com/",
+  "target":"https://www.allrecipes.com//",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -46,7 +46,7 @@
         },
         {
           "name-attribute":"content",
-          "value-attribute":"NazEtFlusNlDKA51bEHyOHI4Qtwe9R5m-WdMCLh_Gjg"
+          "value-attribute":"uAExoPOYUOHXCRfW3WSC9aVlwD4h7WNH9i4J_ZmRByc"
         }
       ],
       "data-innerHTML":"",
